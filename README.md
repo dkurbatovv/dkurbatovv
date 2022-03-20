@@ -4,12 +4,6 @@
   
 </h1>
 
-<h1 align="center">
-  
-![Metrics](https://metrics.lecoq.io/dkurbatovv?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Europe%2FMoscow)
-  
-</h1>  
-
 <h1 align="center">Hi there, I'm Denis</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">  
