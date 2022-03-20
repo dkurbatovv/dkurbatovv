@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/25536017/159154476-42f23152-e59d-4fed-be37-ecef4f93a577.png)
+https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Machine-Learning-and-Supply-Chain-Management.jpg
 
 
 
