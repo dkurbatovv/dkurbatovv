@@ -4,7 +4,8 @@
 <h1 align="center">Hi there, I'm Denis</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Machine Learning engineer from Russia</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B3F755&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 Skills: Python / Keras
 
