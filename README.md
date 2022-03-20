@@ -1,7 +1,7 @@
-Hi there 👋, I'm Denis
-Machine Learning engineer from Russia
-Welcome to my profile! I'm beginner engineer👶.
-
+Hi there 👋, I'm Denis<br>
+Machine Learning engineer from Russia<br>
+Welcome to my profile! I'm beginner engineer👶.<br>
+<br>
 Skills: Python / Keras
 
 
