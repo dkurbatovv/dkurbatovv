@@ -1,5 +1,4 @@
-https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Machine-Learning-and-Supply-Chain-Management.jpg
-
+![image](https://user-images.githubusercontent.com/25536017/159154629-5e3d072b-5e01-423e-b98f-36ef10bf39bf.png)
 
 
 Hi there 👋, I'm Denis<br>
