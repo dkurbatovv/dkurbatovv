@@ -3,10 +3,9 @@
 
 <h1 align="center">Hi there, I'm Denis</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-Machine Learning engineer from Russia<br>
-Welcome to my profile! I'm beginner engineer👶.<br>
-<br>
+<h3 align="center">Machine Learning engineer from Russia🇺</h3>
+<h4 aling='center>Welcome to my profile! I'm beginner engineer👶.</h4>
+
 Skills: Python / Keras
 
 
