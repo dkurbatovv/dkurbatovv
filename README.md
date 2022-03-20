@@ -5,10 +5,15 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F7F7F7&vCenter=true&multiline=true&width=600&height=150&lines=Machine+Learning+engineer+from+Russia+;+++++++++++++++++++Welcome+to+my+profile!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer+from+Russia)](https://git.io/typing-svg)
   
 </h3>
 
+<h3 align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer+from+Russia)](https://git.io/typing-svg)
+  
+</h3>
 
 Skills: Python / Keras
 
