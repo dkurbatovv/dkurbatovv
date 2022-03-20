@@ -17,15 +17,6 @@
   
 </h3>
 
-name: Labels
-uses: dkurbatovv/metrics@latest
-with:
-  filename: metrics.plugin.topics.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_topics: yes
-  plugin_topics_limit: 12
-
 <h1 align="center">⭐My GitHub Stats⭐</h1>
 <h3 align="center">
   
