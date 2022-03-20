@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/25536017/159154629-5e3d072b-5e01-423e-b98f-36ef10bf39bf.png)
+![image](https://user-images.githubusercontent.com/25536017/159154658-2d578a4e-6b5e-4b3f-82c8-62eae8f4ed52.png)
 
 
 Hi there 👋, I'm Denis<br>
