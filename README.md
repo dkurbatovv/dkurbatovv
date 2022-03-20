@@ -8,10 +8,9 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer+from+Russia)](https://git.io/typing-svg)
   
 </h3>
-
 <h3 align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer+from+Russia)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=05F794&lines=Welcome+to+my+profile!+)](https://git.io/typing-svg)
   
 </h3>
 
