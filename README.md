@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/25536017/159154680-118d8e62-8d62-42fa-b9eb-8932b6e6a928.png)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkurbatovv&theme=github_dark)
 
 
 <h1 align="center">Hi there, I'm Denis</a> 
