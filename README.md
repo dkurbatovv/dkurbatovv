@@ -8,7 +8,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B1F705&center=true&width=450&lines=Machine+Learning+Engineer+from+Russia)](https://git.io/typing-svg)
   
 </h3>
-<h1 align="center">⭐My GitHub Stats⭐</h1>
+
 <h3 align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=05F794&center=true&lines=Welcome+to+my+profile!+)](https://git.io/typing-svg)
@@ -17,6 +17,7 @@
 
 Skills: Python / Keras
 
+<h1 align="center">⭐My GitHub Stats⭐</h1>
 <h3 align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkurbatovv&show_icons=true&theme=radical)
