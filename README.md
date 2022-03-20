@@ -24,6 +24,7 @@ Skills: Python / Keras
   
 </h3>
 
+<h1 align="center">🖥Most Uded Languages🖥</h1>
 <h3 align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkurbatovv&layout=compact)](https://github.com/dkurbatovv/github-readme-stats)
