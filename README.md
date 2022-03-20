@@ -1,5 +1,8 @@
+<h1 align="center">
+  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkurbatovv&theme=github_dark)
-
+  
+</h1>
 
 <h1 align="center">Hi there, I'm Denis</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
