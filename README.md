@@ -5,7 +5,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=true&vCenter=true&multiline=true&lines=Machine+Learning+engineer+from+Russia+;Welcome+to+my+profile!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&vCenter=true&multiline=true&lines=Machine+Learning+engineer+from+Russia+;Welcome+to+my+profile!)](https://git.io/typing-svg)
   
 </h3>
 
