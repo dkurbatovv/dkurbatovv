@@ -27,8 +27,9 @@ Skills: Python / Keras
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkurbatovv&layout=compact)](https://github.com/dkurbatovv/github-readme-stats)
 
 </h3>
-<h3 align="center">
+
   <h1 align="center">Streak Stats</h1>
+<h3 align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dkurbatovv&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
