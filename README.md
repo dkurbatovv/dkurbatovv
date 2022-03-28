@@ -1,7 +1,5 @@
 <h1 align="center">
   
-![image](https://user-images.githubusercontent.com/25536017/160417244-acf66760-ea01-439f-bf8d-a886fd3a6ced.png) 
-  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkurbatovv&theme=github_dark)
   
 </h1>
