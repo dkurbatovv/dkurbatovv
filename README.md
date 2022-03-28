@@ -1,5 +1,7 @@
 <h1 align="center">
   
+ https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif 
+  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkurbatovv&theme=github_dark)
   
 </h1>
